@@ -24,6 +24,12 @@
   background-color: white;
 }
 
+.article {
+  border: 1px solid black;
+  margin: 24px;
+  padding: 16px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
